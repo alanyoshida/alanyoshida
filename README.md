@@ -107,6 +107,14 @@
 - My personal annotations using [vimwiki](https://alanyoshida.github.io/vimwiki/)
 - Soon cognitive hacker [blog](https://cognitivehacker.github.io/blog/)
 
+<h3 align="left">Badges:</h3>
+<a href="https://www.credly.com/badges/b266410f-2087-4e62-a253-aeb5b7bb6673/twitter" target="_blank" rel="noreferrer"> 
+    <img src="images\Solo_Workshop_Badge_050521_v5.png" alt="istio workshop" width="120" height="120"/> </a> 
+<a href="https://www.credly.com/badges/6872d671-113c-4cea-98a6-ec7c3469aab4/twitter" target="_blank" rel="noreferrer"> 
+    <img src="images\Solo_Workshop_Basics_Badge_061621_v4.png" alt="istio workshop" width="120" height="120"/> </a> 
+
+<hr />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanyoshida&show_icons=true&locale=en&layout=compact" alt="alanyoshida" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanyoshida&show_icons=true&locale=en" alt="alanyoshida" /></p>
