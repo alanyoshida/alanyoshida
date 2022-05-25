@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alan Luis Yoshida de Oliveira</h1>
-<h3 align="center">I'm a DevSecOps engineer that love studying new technologies.</h3>
+<h3 align="center">I'm a Cyber Security engineer that love studying new technologies.</h3>
 
 <p align="left"> <a href="https://twitter.com/alanyoshida" target="blank"><img src="https://img.shields.io/twitter/follow/alanyoshida?logo=twitter&style=for-the-badge" alt="alanyoshida" /></a> </p>
 
 - 👨🏼‍💻 Enthusiast of the DevSecOps and agile culture and passionate about Open Source
 
-- 🔭 I’m currently working on **dafiti group**
+- 🔭 I’m currently working on **Magazine Luiza**
 
 - 📝 I’m currently learning **k8s, machine learning and security**
 
