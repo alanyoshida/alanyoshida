@@ -112,6 +112,8 @@
     <img src="images\Solo_Workshop_Badge_050521_v5.png" alt="istio workshop" width="120" height="120"/> </a> 
 <a href="https://www.credly.com/badges/6872d671-113c-4cea-98a6-ec7c3469aab4/twitter" target="_blank" rel="noreferrer"> 
     <img src="images\Solo_Workshop_Basics_Badge_061621_v4.png" alt="istio workshop" width="120" height="120"/> </a> 
+<a href="https://www.credly.com/badges/5b91b43a-8ea1-4d10-b10d-cb761aff4b3a/public_url" target="_blank" rel="noreferrer"> 
+    <img src="images\fundamentals-for-cilium-by-solo-io.png" alt="cilium workshop" width="120" height="120"/> </a> 
 
 <hr />
 
