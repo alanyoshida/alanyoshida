@@ -52,9 +52,11 @@
   <a href="https://aws.amazon.com/pt/eks/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="eks" width="40" height="40"/> </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>   </a>
   <a href="https://istio.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40"/> </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
   <a href="https://www.graylog.org/" target="_blank" rel="noreferrer"> 
@@ -99,6 +101,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
+  <a href="https://cert-manager.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://camo.githubusercontent.com/c96e0fde1ae73d7f466c8b9dbee0003ebf714be2f2c733a305d5c3cd250fb4bc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f737461727475702d6772696e642f696d6167652f75706c6f61642f635f66696c6c2c6470725f322e302c665f6175746f2c675f63656e7465722c685f313038302c715f3130302c775f313038302f76312f6763732f706c6174666f726d2d646174612d636e63662f6576656e74732f636572742d6d616e616765722d6c6f676f2e706e67" alt="cert-manager" width="40" height="40"/> </a> 
+  <a href="https://www.proxmox.com/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/proxmox.svg" alt="proxmox" width="40" height="40"/> </a> 
+
+
 </p>
 
 <h3 align="left">Additional links:</h3>
