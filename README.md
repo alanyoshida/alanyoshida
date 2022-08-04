@@ -126,6 +126,8 @@
     <img src="images\fundamentals-for-cilium-by-solo-io.png" alt="cilium workshop" width="120" height="120"/> </a> 
 <a href="https://www.credly.com/badges/5b91b43a-8ea1-4d10-b10d-cb761aff4b3a/public_url" target="_blank" rel="noreferrer"> 
     <img src="images\Solo_Workshop_Expert_Badge_060321_v1__1_.png" alt="cilium workshop" width="120" height="120"/> </a>     
+<a href="https://www.credly.com/badges/480f11bc-32bf-4999-b593-1dc114106f51/public_url" target="_blank" rel="noreferrer"> 
+    <img src="images\envoy.png" alt="envoy workshop" width="120" height="120"/> </a>     
 
 <hr />
 
