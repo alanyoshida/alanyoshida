@@ -128,6 +128,8 @@
     <img src="images\Solo_Workshop_Expert_Badge_060321_v1__1_.png" alt="cilium workshop" width="120" height="120"/> </a>     
 <a href="https://www.credly.com/badges/480f11bc-32bf-4999-b593-1dc114106f51/public_url" target="_blank" rel="noreferrer"> 
     <img src="images\envoy.png" alt="envoy workshop" width="120" height="120"/> </a>     
+<a href="https://www.credly.com/badges/d6f7bdfe-a8c4-4e69-8ea5-400c0d0f7a04/public_url" target="_blank" rel="noreferrer"> 
+    <img src="images\fundamentals_ebpf.png" alt="ebpf workshop" width="120" height="120"/> </a>     
 
 <hr />
 
