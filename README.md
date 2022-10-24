@@ -130,6 +130,8 @@
     <img src="images\envoy.png" alt="envoy workshop" width="120" height="120"/> </a>     
 <a href="https://www.credly.com/badges/d6f7bdfe-a8c4-4e69-8ea5-400c0d0f7a04/public_url" target="_blank" rel="noreferrer"> 
     <img src="images\fundamentals_ebpf.png" alt="ebpf workshop" width="120" height="120"/> </a>     
+<a href="https://www.credly.com/badges/068ce928-6580-404d-ac59-e0d10d153a8e/public_url" target="_blank" rel="noreferrer"> 
+    <img src="images\Solo_Workshop_Network_Foundations.png" alt="Network Foundations" width="120" height="120"/> </a>     
 
 <hr />
 
