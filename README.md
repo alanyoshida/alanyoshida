@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Magazine Luiza**
 
-- 📝 I’m currently learning **k8s, machine learning and security**
+- 📝 I’m currently learning **cilium, ebpf, service mesh**
 
 - 📫 How to reach me **alanyoshida@msn.com or alanyoshida88@gmail.com**
 
@@ -115,7 +115,6 @@
 
 - Cognitive hacker is a virtual hacker space for sharing knowledge and having some fun. Wanna join ? ask for the discord invite in private. [Github link](https://github.com/cognitivehacker)
 - My personal annotations using [vimwiki](https://alanyoshida.github.io/vimwiki/)
-- Soon cognitive hacker [blog](https://cognitivehacker.github.io/blog/)
 
 <h3 align="left">Badges:</h3>
 <a href="https://www.credly.com/badges/b266410f-2087-4e62-a253-aeb5b7bb6673/twitter" target="_blank" rel="noreferrer"> 
