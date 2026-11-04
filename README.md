@@ -1,24 +1,22 @@
 <h1 align="center">Hi 👋, I'm Alan Luis Yoshida de Oliveira</h1>
 <h3 align="center">I'm a Cyber Security engineer that love studying new technologies.</h3>
 
-<p align="left"> <a href="https://twitter.com/alanyoshida" target="blank"><img src="https://img.shields.io/twitter/follow/alanyoshida?logo=twitter&style=for-the-badge" alt="alanyoshida" /></a> </p>
-
 - 👨🏼‍💻 Enthusiast of the DevSecOps and agile culture and passionate about Open Source
 
 - 🔭 I’m currently working on **Magazine Luiza**
 
-- 📝 I’m currently learning **Agent Development Kit (ADK) with Vertex AI**
+- 📝 I’m currently learning **AI Security**
 
 - 📫 How to reach me **alanyoshida@msn.com or alanyoshida88@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/alanyoshida/resume](https://github.com/alanyoshida/resume)
 
-- ⚡ Fun fact **I love going to the cinema, gaming, watching tv shows, watching japanese animation and listening to folk metal.**
+- ⚡ Fun fact **I love going to the cinema and listening to folk metal.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/alanyoshida" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanyoshida" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/alanyoshida88" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanyoshida88" height="30" width="40" /></a>
 <a href="https://instagram.com/alanyoshida88" target="blank">
@@ -27,12 +25,10 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alan.yoshida.oliveira" height="30" width="40" /></a>
 <a href="https://medium.com/@alanyoshida88" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alanyoshida88" height="30" width="40" /></a>
-<a href="https://codepen.io/alanyoshida" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alanyoshida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="background-color:white">
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/></a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
@@ -96,9 +92,4 @@
 <a href="https://www.credly.com/badges/068ce928-6580-404d-ac59-e0d10d153a8e/public_url" target="_blank" rel="noreferrer"> 
 <img src="images\Solo_Workshop_Network_Foundations.png" alt="Network Foundations" width="120" height="120"/></a>     
 
-<hr />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanyoshida&show_icons=true&locale=en&layout=compact" alt="alanyoshida" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanyoshida&show_icons=true&locale=en" alt="alanyoshida" /></p>
 <hr />
